@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite both the paper and the dataset."
+type: dataset
+title: "Research Data and Code for: The Holistic Overview of the Decomposition-Composition Law"
+authors:
+  - family-names: Li
+    given-names: Xiaohui
+    orcid: "https://orcid.org/0009-0003-8233-7191"
+repository-code: "https://github.com/xiaohui-li-lab/"
+abstract: "Open datasets, simulation code, and benchmark protocols for the Decomposition-Composition Law."
+keywords:
+  - Decomposition-Composition Law
+  - conceptual lock-in
+  - consciousness
+  - divination-based decomposition
+  - agent-based modeling
+license: MIT
